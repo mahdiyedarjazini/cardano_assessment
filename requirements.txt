@@ -1,0 +1,5 @@
+fastapi[standard]==0.115.11
+aiohttp==3.11.13
+pandas==2.2.3
+uvicorn==0.34.0
+pydantic-settings==2.8.1
