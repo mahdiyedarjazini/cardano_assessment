@@ -1,0 +1,47 @@
+# Version Control
+.git
+.gitignore
+
+# Virtual Environment
+venv/
+*.env
+*.venv
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing
+tests/
+.pytest_cache/
+
+# Temporary and log files
+*.log
+*.tmp
+*.bak
+.cache/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Uploads and output directories (optional, depending on your requirements)
+uploads/
+outputs/
